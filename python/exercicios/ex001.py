@@ -1,1 +1,0 @@
-print ('\nOlá, Mundo!\n')
