@@ -1,1 +1,1 @@
-Meus exercícios feitos em java script
+Meus exercícios feitos em python
