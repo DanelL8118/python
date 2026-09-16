@@ -9,6 +9,6 @@ print('\nfim\n')"""
 
 nome = str(input('\nQual seu nome: \n')).strip().upper()
 
-if nome == 'DANIEL': print('Bom dia seu gostoso!')
+if nome == 'DANIEL': print('Bom dia chefe!')
 
 else: print('quem é você? {}'.format(nome))
